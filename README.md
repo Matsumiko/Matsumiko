@@ -77,8 +77,8 @@ while (alive) {
 
 <!-- GitHub Stats Cards -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Matsumiko&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff6bcb&icon_color=ff6bcb&text_color=c9d1d9&ring_color=ff6bcb"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Matsumiko&layout=compact&langs_count=10&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=ff6bcb&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matsumiko&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff6bcb&icon_color=ff6bcb&text_color=c9d1d9&ring_color=ff6bcb"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matsumiko&layout=compact&langs_count=10&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=ff6bcb&text_color=c9d1d9"/>
 </div>
 
 <!-- Streak Stats -->
@@ -88,7 +88,7 @@ while (alive) {
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matsumiko&custom_title=Matsumiko's%20Contribution%20Graph&bg_color=0d1117&color=ff6bcb&line=8be9fd&point=ffb86c&area_color=ff6bcb&area=true&hide_border=true&theme=github-dark" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matsumiko&custom_title=Matsumiko's%20Contribution%20Graph&bg_color=0d1117&color=ff6bcb&line=8be9fd&point=ffb86c&area_color=ff6bcb&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -132,9 +132,9 @@ while (alive) {
 
 <div align="center">
 
-## 🏆 Achievement Showcase
+## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Matsumiko&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=7&rank=-C,-?"/>
+![](https://github-profile-trophy.vercel.app/?username=Matsumiko&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=7)
 
 </div>
 
@@ -175,25 +175,13 @@ while (alive) {
 
 <div align="center">
 
-## 📊 Detailed Stats & Metrics
+## 📊 Detailed GitHub Metrics
 
 </div>
 
-<!-- Detailed Stats -->
 <div align="center">
-  
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matsumiko&theme=github_dark" width="100%"/>
 
-<table>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Matsumiko&theme=github_dark"/></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Matsumiko&theme=github_dark"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Matsumiko&theme=github_dark"/></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Matsumiko&theme=github_dark&utcOffset=8"/></td>
-  </tr>
-</table>
+![Metrics](https://metrics.lecoq.io/Matsumiko?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FJakarta)
 
 </div>
 
@@ -268,13 +256,9 @@ class CodingManifesto:
 
 <div align="center">
 
-## 🐍 Contribution Snake
+## 📈 Contribution Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matsumiko/Matsumiko/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matsumiko/Matsumiko/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Matsumiko/Matsumiko/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://github-contributor-stats.vercel.app/api?username=Matsumiko&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" />
 
 </div>
 
@@ -285,10 +269,10 @@ class CodingManifesto:
 ## 📡 Let's Connect & Vibe Together!
 
 <a href="https://t.me/fadzdigital_ch">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&style=flat-square" alt="Telegram"/>
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 <a href="https://whatsapp.com/channel/0029VaiKMPoDjiOm6Y1kIv24">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&style=flat-square" alt="WhatsApp"/>
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
 
 ### 💌 Open for:
