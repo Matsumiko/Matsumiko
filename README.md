@@ -1,13 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=200&section=header&text=Matsumiko%20%E3%83%84&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Vibes%20Coding%20%7C%20AI-Powered%20Developer%20%7C%20Anime%20Enthusiast&descAlignY=58&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=200&section=header&text=Matsumiko%20%E3%83%84&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Vibes%20Coding%20%7C%20AI-Powered%20Tinkerer%20%7C%20Anime%20Enthusiast&descAlignY=58&descAlign=50"/>
 
 </div>
 
 <div align="center">
   
 <!-- Animated Typing -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF6BCB&center=true&vCenter=true&random=false&width=800&height=100&lines=%E2%9C%A8+Welcome+to+My+Digital+Playground+%E2%9C%A8;%F0%9F%A4%96+Coding+with+AI+%26+Vibes+Only;%F0%9F%8E%AE+Building+Bots+%7C+Breaking+Things;%F0%9F%8C%99+Night+Owl+Developer+%7C+Anime+Lover;%E2%9A%A1+Self-Taught+%7C+No+Rules+%7C+Pure+Chaos" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF6BCB&center=true&vCenter=true&random=false&width=800&height=100&lines=%E2%9C%A8+Welcome+to+My+Digital+Playground+%E2%9C%A8;%F0%9F%A4%96+Coding+with+AI+%26+Vibes+Only;%F0%9F%8E%AE+Building+Bots+%7C+Breaking+Things;%F0%9F%8C%99+Night+Owl+Coder+%7C+Anime+Lover;%E2%9A%A1+Self-Taught+%7C+No+Rules+%7C+Pure+Chaos" alt="Typing SVG" />
+</a>
 
 </div>
 
@@ -24,30 +26,30 @@
 
 <img align="right" alt="Coding Anime GIF" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-### 🎭 About This Chaos Developer
+### 🎭 About This Chaos Coder
 
 ```typescript
-interface Developer {
+interface VibesCoder {
   name: string;
   role: string;
   location: string;
-  education: string;
-  workingOn: string[];
+  style: string;
+  playingWith: string[];
   funFact: string;
 }
 
-const matsumiko: Developer = {
+const matsumiko: VibesCoder = {
   name: "Matsumiko ツ",
-  role: "Vibes-Driven Developer 🎯",
+  role: "Vibes-Driven Coder 🎯",
   location: "Internet 🌐",
-  education: "AI University + Google-sensei 🤖",
-  workingOn: [
-    "🤖 Telegram & WhatsApp Bots",
-    "🎲 Random Experimental Projects", 
-    "✨ Whatever Feels Right",
+  style: "Belajar pelan-pelan bareng AI & Google-sensei 🤖",
+  playingWith: [
+    "🤖 Telegram & WhatsApp Bots (iseng-iseng berhadiah)",
+    "🎲 Random Experimental Projects",
+    "✨ Project yang kelihatan seru duluan",
     "🌙 Late Night Coding Sessions"
   ],
-  funFact: "I ship code at 3 AM and debug with anime OST 🎵"
+  funFact: "Lebih sering 'coba-coba dulu' daripada baca dokumentasi 🎵"
 };
 
 // Life Philosophy
@@ -63,7 +65,7 @@ while (alive) {
     vibes = "excellent";
   }
 }
-```
+````
 
 <br clear="right"/>
 
@@ -71,22 +73,25 @@ while (alive) {
 
 <div align="center">
 
-## ⚡ Power Level: OVER 9000! ⚡
+## ⚡ Power Level: OVER 9000! (di kepala sendiri) ⚡
 
 </div>
 
 <!-- GitHub Stats Cards -->
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Matsumiko&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff6bcb&icon_color=ff6bcb&text_color=c9d1d9&ring_color=ff6bcb"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Matsumiko&layout=compact&langs_count=10&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=ff6bcb&text_color=c9d1d9"/>
 </div>
 
 <!-- Streak Stats -->
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matsumiko&theme=midnight-purple&hide_border=true&background=0D1117&stroke=ff6bcb&ring=ff6bcb&fire=ffb86c&currStreakLabel=ff6bcb&sideLabels=c9d1d9&dates=8be9fd"/>
 </div>
 
 <!-- Activity Graph -->
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matsumiko&custom_title=Matsumiko's%20Contribution%20Graph&bg_color=0d1117&color=ff6bcb&line=8be9fd&point=ffb86c&area_color=ff6bcb&area=true&hide_border=true&theme=github-dark" width="100%"/>
 </div>
@@ -95,36 +100,40 @@ while (alive) {
 
 <div align="center">
 
-## 🎨 Tech Stack & Weapons of Choice
+## 🎨 Tech Stack & Toys I Play With
 
 </div>
 
 <div align="center">
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+### 💻 Languages I Mess With
 
-### 🤖 AI Arsenal
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_AI-191919?style=for-the-badge&logo=anthropic&logoColor=d4a574)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
 
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+### 🤖 AI Sidekicks
 
-### 🎯 Specialties
-![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp_Bots-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![API](https://img.shields.io/badge/API_Integration-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white)
-![Web Scraping](https://img.shields.io/badge/Web_Scraping-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge\&logo=openai\&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-191919?style=for-the-badge\&logo=anthropic\&logoColor=d4a574)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge\&logo=github\&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge\&logo=google\&logoColor=white)
+
+### 🛠️ Tools & Playground
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge\&logo=npm\&logoColor=white)
+
+### 🎯 Things I Often Play Around With
+
+![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp_Bots-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)
+![API](https://img.shields.io/badge/API_Stuff-FF6B6B?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-Trying%20My%20Best-4B8BBE?style=for-the-badge\&logo=python\&logoColor=white)
 
 </div>
 
@@ -132,7 +141,7 @@ while (alive) {
 
 <div align="center">
 
-## 🏆 Achievement Showcase
+## 🏆 Achievement Showcase (Just for Fun)
 
 <img src="https://github-profile-trophy.vercel.app/?username=Matsumiko&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=7&rank=-C,-?"/>
 
@@ -150,22 +159,24 @@ while (alive) {
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Bot Development
-- 💬 Telegram Automation
-- 📱 WhatsApp Integration  
-- 🔄 Auto-Response Systems
-- 🎲 Interactive Features
-- ⚡ Real-time Processing
+### 🤖 Bot Playground
+
+* 💬 Telegram Automation (eksperimen)
+* 📱 WhatsApp Integration
+* 🔄 Auto-Response iseng
+* 🎲 Interactive Stuff
+* ⚡ Coba-coba real-time
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧪 Experimental Zone
-- 🎨 Web Scraping Projects
-- 🔥 API Explorations
-- 🌐 Web Applications
-- 🎭 Random Innovations
-- ✨ AI Integration Tests
+
+* 🎨 Web Scraping kecil-kecilan
+* 🔥 Main-main API
+* 🌐 Simple Web Apps
+* 🎭 Random Ideas
+* ✨ AI Integration test-testan
 
 </td>
 </tr>
@@ -179,9 +190,8 @@ while (alive) {
 
 </div>
 
-<!-- Detailed Stats -->
 <div align="center">
-  
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matsumiko&theme=github_dark" width="100%"/>
 
 <table>
@@ -214,31 +224,31 @@ class CodingManifesto:
     """The Way of the Vibes Coder"""
     
     principles = {
-        "🎯 Vibes Over Perfection": "If it feels right, ship it",
-        "🤖 AI is Your Friend": "Smart work > Hard work",
-        "🌙 Night Owl Mode": "Best code happens at 3 AM",
-        "🎲 Embrace Chaos": "Breaking things = Learning",
-        "✨ Ship Fast": "Done is better than perfect",
-        "🎮 Take Breaks": "Anime breaks = Better code",
-        "💡 Learn By Doing": "Tutorial hell is real, escape it",
-        "🔥 No Gatekeeping": "Share knowledge, grow together"
+        "🎯 Vibes Over Perfection": "Kalau kerasa oke, gas dulu",
+        "🤖 AI is Your Friend": "Nanya AI bukan curang",
+        "🌙 Night Owl Mode": "Ide random munculnya malam",
+        "🎲 Embrace Chaos": "Salah itu bagian dari belajar",
+        "✨ Ship Fast": "Done > Perfect",
+        "🎮 Take Breaks": "Anime break itu penting",
+        "💡 Learn By Doing": "Belajar dari ngerusak dulu",
+        "🔥 No Gatekeeping": "Share aja, biar sama-sama naik"
     }
     
     @staticmethod
     def daily_routine():
         return [
-            "Wake up at 'afternoon' ☕",
-            "Check GitHub notifications 📱",
-            "Watch one episode 📺",
-            "Get random idea 💡",
-            "Code for 6 hours straight ⌨️",
-            "Ask AI when stuck 🤖",
-            "Git push at 4 AM 🚀",
-            "Sleep (maybe) 😴"
+            "Bangun (entah jam berapa) ☕",
+            "Cek GitHub & notif 📱",
+            "Satu episode dulu 📺",
+            "Dapet ide random 💡",
+            "Ngoding sampe lupa waktu ⌨️",
+            "Tanya AI kalau mentok 🤖",
+            "Git push jam 3-4 pagi 🚀",
+            "Tidur... kalau inget 😴"
         ]
     
     def motto(self):
-        return "Code with passion, debug with patience, deploy with prayers 🙏"
+        return "Ngoding pelan-pelan, belajar sambil ketawa, deploy sambil doa 🙏"
 ```
 
 ---
@@ -251,16 +261,16 @@ class CodingManifesto:
 
 <div align="center">
 
-| 🎯 Fact | 💭 Reality |
-|---------|-----------|
-| 🕐 Best Coding Time | 11 PM - 5 AM (Peak Vibes Hours) |
-| ☕ Fuel | Chaos Energy + Anime OST |
-| 🎮 Debug Method | Ask AI → Copy → Paste → It Works! |
-| 🌙 Sleep Schedule | What's that? |
-| 🎨 Design Skills | "It looks cool to me" ✨ |
-| 📚 Learning Style | Learn by Breaking Everything |
-| 🤖 Pair Programmer | Claude AI (Best Teammate Ever) |
-| 🎭 Life Motto | If it compiles, ship it! |
+| 🎯 Fact             | 💭 Reality                             |
+| ------------------- | -------------------------------------- |
+| 🕐 Best Coding Time | 11 PM - 5 AM (Peak Vibes Hours)        |
+| ☕ Fuel              | Chaos Energy + Anime OST               |
+| 🎮 Debug Method     | Tanya AI → Coba → Kadang langsung work |
+| 🌙 Sleep Schedule   | Flexible banget                        |
+| 🎨 Design Skills    | Kalau keliatan keren, berarti valid ✨  |
+| 📚 Learning Style   | Belajar dari trial & error             |
+| 🤖 Partner Ngoding  | AI tools & kopi                        |
+| 🎭 Life Motto       | If it runs, kita syukuri dulu!         |
 
 </div>
 
@@ -292,7 +302,8 @@ class CodingManifesto:
 </a>
 
 ### 💌 Open for:
-🤝 Collaborations • 💡 Random Ideas • 🎮 Vibes Coding Sessions • 🎨 Bot Projects • ⚡ Chaos Engineering
+
+🤝 Ngobrol santai • 💡 Ide random • 🎮 Vibes Coding Sessions • 🎨 Bot iseng-iseng • ⚡ Eksperimen chaos
 
 </div>
 
@@ -304,9 +315,9 @@ class CodingManifesto:
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/> 
 
-**If you vibe with my chaos, drop a ⭐ on my repos!**
+**Kalau vibing sama repo-ku, bolehlah drop ⭐ dikit.**
 
-*Every star gives me +10 motivation points* ✨
+*Setiap star nambah +10 motivasi* ✨
 
 </div>
 
@@ -316,11 +327,11 @@ class CodingManifesto:
 
 ### 🎌 ありがとうございます! (Arigatou Gozaimasu!)
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20poetry,%20bugs%20are%20haikus&author=Matsumiko"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20for%20fun%2C%20bugs%20are%20part%20of%20the%20story&author=Matsumiko"/>
 
 <br/>
 
-**"The only way to do great work is to love what you do... or at least vibe with it"** 🌟
+**"You don't need to be pro to enjoy the code — yang penting vibes jalan."** 🌟
 
 <br/>
 
@@ -328,6 +339,6 @@ class CodingManifesto:
 
 ---
 
-<sup>Made with 💖, ☕, and a lot of AI assistance | Last updated: Auto-magic ✨</sup>
+<sup>Made with 💖, ☕, and a lot of AI bantuan | Last updated: Auto-magic ✨</sup>
 
 </div>
