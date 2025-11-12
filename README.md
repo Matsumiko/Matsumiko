@@ -6,14 +6,12 @@
 
 <div align="center">
   
-<!-- Animated Typing -->
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF6BCB&center=true&vCenter=true&random=false&width=800&height=100&lines=%E2%9C%A8+Welcome+to+My+Digital+Playground+%E2%9C%A8;%F0%9F%A4%96+Coding+with+AI+%26+Vibes+Only;%F0%9F%8E%AE+Building+Bots+%7C+Breaking+Things;%F0%9F%8C%99+Night+Owl+Coder+%7C+Anime+Lover;%E2%9A%A1+Self-Taught+%7C+No+Rules+%7C+Pure+Chaos" alt="Typing SVG" />
 </a>
 
 </div>
 
-<!-- Profile Views Counter -->
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=Matsumiko&label=PROFILE+VIEWS&color=FF6BCB&style=for-the-badge)
@@ -52,7 +50,6 @@ const matsumiko: VibesCoder = {
   funFact: "Lebih sering 'coba-coba dulu' daripada baca dokumentasi 🎵"
 };
 
-// Life Philosophy
 while (alive) {
   if (vibes === "good") {
     code();
@@ -77,20 +74,14 @@ while (alive) {
 
 </div>
 
-<!-- GitHub Stats Cards -->
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Matsumiko&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff6bcb&icon_color=ff6bcb&text_color=c9d1d9&ring_color=ff6bcb"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Matsumiko&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=ff6bcb&icon_color=ff6bcb&text_color=c9d1d9&ring_color=ff6bcb"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Matsumiko&layout=compact&langs_count=10&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=ff6bcb&text_color=c9d1d9"/>
 </div>
-
-<!-- Streak Stats -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matsumiko&theme=midnight-purple&hide_border=true&background=0D1117&stroke=ff6bcb&ring=ff6bcb&fire=ffb86c&currStreakLabel=ff6bcb&sideLabels=c9d1d9&dates=8be9fd"/>
 </div>
-
-<!-- Activity Graph -->
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matsumiko&custom_title=Matsumiko's%20Contribution%20Graph&bg_color=0d1117&color=ff6bcb&line=8be9fd&point=ffb86c&area_color=ff6bcb&area=true&hide_border=true&theme=github-dark" width="100%"/>
@@ -142,6 +133,10 @@ while (alive) {
 <div align="center">
 
 ## 🏆 Achievement Showcase (Just for Fun)
+
+</div>
+
+<div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Matsumiko&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=7&rank=-C,-?"/>
 
