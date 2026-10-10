@@ -62,7 +62,7 @@ while (alive) {
     vibes = "excellent";
   }
 }
-````
+```
 
 <br clear="right"/>
 
@@ -70,21 +70,21 @@ while (alive) {
 
 <div align="center">
 
-## ⚡ Power Level: OVER 9000! (di kepala sendiri) ⚡
+## ⚡ GitHub Activity
 
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Matsumiko&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=ff6bcb&icon_color=ff6bcb&text_color=c9d1d9&ring_color=ff6bcb"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Matsumiko&layout=compact&langs_count=10&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=ff6bcb&text_color=c9d1d9"/>
+  <a href="https://github.com/Matsumiko">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Matsumiko&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=ff6bcb&icon_color=ff6bcb&text_color=c9d1d9&rank=-C" alt="Matsumiko's GitHub stats" />
+  </a>
+  <a href="https://github.com/Matsumiko">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matsumiko&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=ff6bcb&text_color=c9d1d9" alt="Most used languages" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matsumiko&theme=midnight-purple&hide_border=true&background=0D1117&stroke=ff6bcb&ring=ff6bcb&fire=ffb86c&currStreakLabel=ff6bcb&sideLabels=c9d1d9&dates=8be9fd"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matsumiko&custom_title=Matsumiko's%20Contribution%20Graph&bg_color=0d1117&color=ff6bcb&line=8be9fd&point=ffb86c&area_color=ff6bcb&area=true&hide_border=true&theme=github-dark" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matsumiko&theme=midnight-purple&hide_border=true&background=0D1117&stroke=ff6bcb&ring=ff6bcb&fire=ffb86c&currStreakLabel=ff6bcb&sideLabels=c9d1d9&dates=8be9fd" alt="GitHub contribution streak" />
 </div>
 
 ---
@@ -130,19 +130,6 @@ while (alive) {
 
 ---
 
-<div align="center">
-
-## 🏆 Achievement Showcase (Just for Fun)
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Matsumiko&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=7&rank=-C,-?"/>
-
-</div>
-
----
 
 <div align="center">
 
@@ -179,30 +166,6 @@ while (alive) {
 
 ---
 
-<div align="center">
-
-## 📊 Detailed Stats & Metrics
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matsumiko&theme=github_dark" width="100%"/>
-
-<table>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Matsumiko&theme=github_dark"/></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Matsumiko&theme=github_dark"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Matsumiko&theme=github_dark"/></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Matsumiko&theme=github_dark&utcOffset=8"/></td>
-  </tr>
-</table>
-
-</div>
-
----
 
 <div align="center">
 
